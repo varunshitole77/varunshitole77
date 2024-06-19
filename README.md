@@ -3,7 +3,7 @@
 About Me :
 
 A dedicated Data Science Enthusiast and Analyst with a relentless drive to uncover insights from complex datasets. 
-I am passionate about leveraging data to drive strategic decision-making and foster innovation. With a solid foundation in data analytics, my mission as a Data Analyst is to push boundaries and implement essential problem-solving skills in the field.
+I am passionate about leveraging data to drive strategic decision-making and foster innovation. With a solid foundation in data analytics, my mission is to push boundaries and implement essential problem-solving skills in the field.
 
 ##
 Connect with Me :
