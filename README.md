@@ -6,6 +6,10 @@ A dedicated Data Science Enthusiast and Analyst with a relentless drive to uncov
 I am passionate about leveraging data to drive strategic decision-making and foster innovation. With a solid foundation in data analytics, my mission is to push boundaries and implement essential problem-solving skills in the field.
 
 ##
+- 🔭 I’m currently working on data visualization projects.
+
+
+##
 Connect with Me :
 
 <a href="https://www.linkedin.com/in/varun-shitole" target="_blank" style="text-decoration: none; color: inherit;">
@@ -47,7 +51,3 @@ Here's More About Me :
 <a href="" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Resume-aaf2a0.svg?style=for-the-badge" alt="Medium Badge">
 </a>
-
-##
-- 🔭 I’m currently working on data visualization projects.
-
