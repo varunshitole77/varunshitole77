@@ -22,6 +22,9 @@ Connect with Me :
 <a href="https://medium.com/@varun-shitole" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge">
 </a>
+<a href="https://leetcode.com/u/zT8NcqxBZZ/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Medium Badge">
+</a>
 
 ##
 A Good Foundation in :
