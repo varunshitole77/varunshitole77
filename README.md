@@ -21,7 +21,7 @@ A Good Foundation in:
 
 ##
 Connect with Me :
-- Resume: https://drive.google.com/drive/u/0/folders/1SAFKA3uwKPfFQWgpPHp8_nDmOdkh4rCV
+- Resume: https://drive.google.com/file/d/1K7GO__c6Bot449827kfKHOTfvQrIqdHX/view?usp=drive_link
 - LinkedIn: https://www.linkedin.com/in/varun-shitole/
 - Medium: https://medium.com/@varun-shitole
 - Leetcode: https://leetcode.com/u/zT8NcqxBZZ/
