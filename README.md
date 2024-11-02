@@ -46,8 +46,6 @@ A Good Foundation in :
 ##
 Here's More About Me :
 
-<a href="" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/badge/Portfolio-bde225.svg?style=for-the-badge" alt="Medium Badge">
 </a>
 <a href="" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.shields.io/badge/Resume-aaf2a0.svg?style=for-the-badge" alt="Medium Badge">
