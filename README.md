@@ -21,6 +21,5 @@ A Good Foundation in:
 
 ##
 Connect with Me :
-- Resume: https://drive.google.com/file/d/1K7GO__c6Bot449827kfKHOTfvQrIqdHX/view?usp=drive_link
 - LinkedIn: https://www.linkedin.com/in/varun-shitole/
 - Medium: https://medium.com/@varun-shitole
