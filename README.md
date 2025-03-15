@@ -22,4 +22,3 @@ A Good Foundation in:
 ##
 Connect with Me :
 - LinkedIn: https://www.linkedin.com/in/varun-shitole/
-- Medium: https://medium.com/@varun-shitole
