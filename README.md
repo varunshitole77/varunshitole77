@@ -18,6 +18,7 @@ A Good Foundation in:
 - Database: SQL | Postgre SQL
 - Tools: Tableau | PowerBI
 - Cloud Tools: Microsoft Azure | Docker
+- Programming Languages: Python | SQL 
 
 ##
 Connect with Me :
