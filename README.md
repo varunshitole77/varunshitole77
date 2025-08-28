@@ -23,4 +23,4 @@ A Good Foundation in:
 ##
 Connect with Me :
 - LinkedIn: https://www.linkedin.com/in/varun-shitole/
-- Portfolio: https://varunshitole77.github.io/vs.io/
+- Portfolio: https://varunshitole77.github.io/varunshitole/
