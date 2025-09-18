@@ -24,4 +24,4 @@ A Good Foundation in:
 Connect with Me :
 - LinkedIn: https://www.linkedin.com/in/varun-shitole/
 - Portfolio: https://varunshitole77.github.io/varunshitole/
-- Resume: https://drive.google.com/drive/u/0/folders/1hnRMR-1ug6hqeYt6ui1xkAMDQL1gI-O8
+- Resume: [https://drive.google.com/drive/u/0/folders/1hnRMR-1ug6hqeYt6ui1xkAMDQL1gI-O8](https://drive.google.com/file/d/14qeY6LqE9VDZwkI8iVbmxuH3H9cGAwSv/view?usp=drive_link)
